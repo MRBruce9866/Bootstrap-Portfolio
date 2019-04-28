@@ -1,4 +1,8 @@
-html, body {
-    background-image: url(../images/connectwork.png);
+html,body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+   background-color: black
 }
 
+.mainContent {
+    background-image: url(../images/connectwork.png);
+}
